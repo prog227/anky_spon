@@ -1,0 +1,13 @@
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+body {
+    font-size: large;
+}
+p{
+    color: blue;
+  }
+.img-with-text {
+    text-align: center;
+    width: 200;
+}
